@@ -1,0 +1,1 @@
+Learning Django from https://www.youtube.com/watch?v=F5mRW0jo-U4&t=5733s
